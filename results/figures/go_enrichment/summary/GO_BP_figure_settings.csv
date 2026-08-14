@@ -1,0 +1,11 @@
+Setting,Value
+Top terms per direction,15
+GO label wrap width,42
+PNG resolution,600
+Two-panel width,15
+Single-panel width,8.5
+Figure height,9
+Dot-size minimum,2.5
+Dot-size maximum,8
+Adjusted p-value color scale,"viridis option D, reversed"
+Figure formats,PNG; PDF; SVG

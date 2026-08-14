@@ -1,0 +1,7 @@
+Comparison,Tested_Rows,Unique_Tested_ENTREZIDs,Upregulated_Rows,Unique_Upregulated_ENTREZIDs,Downregulated_Rows,Unique_Downregulated_ENTREZIDs,Significant_Upregulated_GO_Terms,Significant_Downregulated_GO_Terms
+Cluster_2_vs_Cluster_1,19208,15848,2102,1626,1814,1462,763,98
+Cluster_3_vs_Cluster_1,19208,15848,2905,2392,3022,2527,538,0
+Cluster_3_vs_Cluster_2,19208,15848,987,899,906,736,6,0
+Cluster_4_vs_Cluster_1,19208,15848,2217,1948,2593,2122,175,288
+Cluster_4_vs_Cluster_2,19208,15848,4167,3549,4043,3201,229,1164
+Cluster_4_vs_Cluster_3,19208,15848,2901,2478,3470,2780,204,1070

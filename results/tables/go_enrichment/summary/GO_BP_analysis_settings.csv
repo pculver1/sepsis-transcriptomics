@@ -1,0 +1,9 @@
+Setting,Value
+Ontology,BP
+P-value adjustment method,BH
+P-value cutoff,0.05
+Q-value cutoff,0.05
+Minimum gene-set size,10
+Maximum gene-set size,500
+Gene identifier,ENTREZID
+Background universe,Unique mapped genes in each comparison's all_genes table

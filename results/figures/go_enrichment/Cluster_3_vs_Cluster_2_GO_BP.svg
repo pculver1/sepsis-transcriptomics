@@ -1,0 +1,101 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<svg xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink' class='svglite' width='612.00pt' height='648.00pt' viewBox='0 0 612.00 648.00'>
+<defs>
+  <style type='text/css'><![CDATA[
+    .svglite line, .svglite polyline, .svglite polygon, .svglite path, .svglite rect, .svglite circle {
+      fill: none;
+      stroke: #000000;
+      stroke-linecap: round;
+      stroke-linejoin: round;
+      stroke-miterlimit: 10.00;
+    }
+    .svglite text {
+      white-space: pre;
+    }
+  ]]></style>
+</defs>
+<rect width='100%' height='100%' style='stroke: none; fill: #FFFFFF;'/>
+<defs>
+  <clipPath id='cpMC4wMHw2MTIuMDB8MC4wMHw2NDguMDA='>
+    <rect x='0.00' y='0.00' width='612.00' height='648.00' />
+  </clipPath>
+</defs>
+<g clip-path='url(#cpMC4wMHw2MTIuMDB8MC4wMHw2NDguMDA=)'>
+<rect x='-0.000000000000064' y='0.00' width='612.00' height='648.00' style='stroke-width: 1.07; stroke: #FFFFFF; fill: #FFFFFF;' />
+</g>
+<defs>
+  <clipPath id='cpMjA3LjIzfDUyMS4xNXw4MC41MXw1OTcuMjc='>
+    <rect x='207.23' y='80.51' width='313.92' height='516.77' />
+  </clipPath>
+</defs>
+<g clip-path='url(#cpMjA3LjIzfDUyMS4xNXw4MC41MXw1OTcuMjc=)'>
+</g>
+<g clip-path='url(#cpMC4wMHw2MTIuMDB8MC4wMHw2NDguMDA=)'>
+</g>
+<defs>
+  <clipPath id='cpNS40OHw2MDYuNTJ8NDYuNTR8NjQyLjUy'>
+    <rect x='5.48' y='46.54' width='601.04' height='595.98' />
+  </clipPath>
+</defs>
+<g clip-path='url(#cpNS40OHw2MDYuNTJ8NDYuNTR8NjQyLjUy)'>
+<rect x='5.48' y='46.54' width='601.04' height='595.98' style='stroke-width: 1.07; stroke: none; fill: #FFFFFF;' />
+</g>
+<g clip-path='url(#cpMC4wMHw2MTIuMDB8MC4wMHw2NDguMDA=)'>
+</g>
+<g clip-path='url(#cpMjA3LjIzfDUyMS4xNXw4MC41MXw1OTcuMjc=)'>
+<polyline points='307.46,597.27 307.46,80.51 ' style='stroke-width: 0.75; stroke: #EBEBEB; stroke-linecap: butt;' />
+<polyline points='413.75,597.27 413.75,80.51 ' style='stroke-width: 0.75; stroke: #EBEBEB; stroke-linecap: butt;' />
+<polyline points='520.05,597.27 520.05,80.51 ' style='stroke-width: 0.75; stroke: #EBEBEB; stroke-linecap: butt;' />
+<circle cx='488.10' cy='130.52' r='8.89' style='stroke-width: 0.71; stroke: #440154; stroke-opacity: 0.90; fill: #440154; fill-opacity: 0.90;' />
+<circle cx='488.10' cy='213.87' r='8.89' style='stroke-width: 0.71; stroke: #440154; stroke-opacity: 0.90; fill: #440154; fill-opacity: 0.90;' />
+<circle cx='433.03' cy='297.22' r='8.27' style='stroke-width: 0.71; stroke: #440154; stroke-opacity: 0.90; fill: #440154; fill-opacity: 0.90;' />
+<circle cx='433.03' cy='380.57' r='8.27' style='stroke-width: 0.71; stroke: #FDE725; stroke-opacity: 0.90; fill: #FDE725; fill-opacity: 0.90;' />
+<circle cx='212.73' cy='463.91' r='3.02' style='stroke-width: 0.71; stroke: #FDE725; stroke-opacity: 0.90; fill: #FDE725; fill-opacity: 0.90;' />
+<circle cx='212.73' cy='547.26' r='3.02' style='stroke-width: 0.71; stroke: #FDE725; stroke-opacity: 0.90; fill: #FDE725; fill-opacity: 0.90;' />
+</g>
+<g clip-path='url(#cpMC4wMHw2MTIuMDB8MC4wMHw2NDguMDA=)'>
+<text x='202.29' y='544.68' text-anchor='end' style='font-size: 9.50px; font-family: "Arial";' textLength='183.73px' lengthAdjust='spacingAndGlyphs'>peptide antigen assembly with MHC class II</text>
+<text x='202.29' y='556.65' text-anchor='end' style='font-size: 9.50px; font-family: "Arial";' textLength='67.06px' lengthAdjust='spacingAndGlyphs'>protein complex</text>
+<text x='202.29' y='467.31' text-anchor='end' style='font-size: 9.50px; font-family: "Arial";' textLength='166.29px' lengthAdjust='spacingAndGlyphs'>MHC class II protein complex assembly</text>
+<text x='202.29' y='383.96' text-anchor='end' style='font-size: 9.50px; font-family: "Arial";' textLength='170.08px' lengthAdjust='spacingAndGlyphs'>Exogenous peptide antigen presentation</text>
+<text x='202.29' y='294.63' text-anchor='end' style='font-size: 9.50px; font-family: "Arial";' textLength='184.86px' lengthAdjust='spacingAndGlyphs'>Exogenous peptide antigen presentation via</text>
+<text x='202.29' y='306.60' text-anchor='end' style='font-size: 9.50px; font-family: "Arial";' textLength='53.83px' lengthAdjust='spacingAndGlyphs'>MHC class II</text>
+<text x='202.29' y='205.30' text-anchor='end' style='font-size: 9.50px; font-family: "Arial";' textLength='163.72px' lengthAdjust='spacingAndGlyphs'>antigen processing and presentation of</text>
+<text x='202.29' y='217.27' text-anchor='end' style='font-size: 9.50px; font-family: "Arial";' textLength='181.12px' lengthAdjust='spacingAndGlyphs'>peptide or polysaccharide antigen via MHC</text>
+<text x='202.29' y='229.24' text-anchor='end' style='font-size: 9.50px; font-family: "Arial";' textLength='29.56px' lengthAdjust='spacingAndGlyphs'>class II</text>
+<text x='202.29' y='127.93' text-anchor='end' style='font-size: 9.50px; font-family: "Arial";' textLength='133.10px' lengthAdjust='spacingAndGlyphs'>Peptide antigen processing and</text>
+<text x='202.29' y='139.90' text-anchor='end' style='font-size: 9.50px; font-family: "Arial";' textLength='123.53px' lengthAdjust='spacingAndGlyphs'>presentation via MHC class II</text>
+<text x='307.46' y='610.08' text-anchor='middle' style='font-size: 11.00px;fill: #4D4D4D; font-family: "Arial";' textLength='21.42px' lengthAdjust='spacingAndGlyphs'>0.01</text>
+<text x='413.75' y='610.08' text-anchor='middle' style='font-size: 11.00px;fill: #4D4D4D; font-family: "Arial";' textLength='21.42px' lengthAdjust='spacingAndGlyphs'>0.01</text>
+<text x='520.05' y='610.08' text-anchor='middle' style='font-size: 11.00px;fill: #4D4D4D; font-family: "Arial";' textLength='21.42px' lengthAdjust='spacingAndGlyphs'>0.02</text>
+<text x='364.19' y='628.25' text-anchor='middle' style='font-size: 11.00px; font-weight: bold; font-family: "Arial";' textLength='54.42px' lengthAdjust='spacingAndGlyphs'>Gene ratio</text>
+<text x='537.59' y='216.09' style='font-size: 9.00px; font-weight: bold; font-family: "Arial";' textLength='49.51px' lengthAdjust='spacingAndGlyphs'>Gene count</text>
+<circle cx='548.92' cy='231.16' r='3.02' style='stroke-width: 0.71; stroke: #000000; stroke-opacity: 0.90; fill: #000000; fill-opacity: 0.90;' />
+<circle cx='548.92' cy='248.44' r='5.65' style='stroke-width: 0.71; stroke: #000000; stroke-opacity: 0.90; fill: #000000; fill-opacity: 0.90;' />
+<circle cx='548.92' cy='265.72' r='6.73' style='stroke-width: 0.71; stroke: #000000; stroke-opacity: 0.90; fill: #000000; fill-opacity: 0.90;' />
+<circle cx='548.92' cy='283.94' r='7.57' style='stroke-width: 0.71; stroke: #000000; stroke-opacity: 0.90; fill: #000000; fill-opacity: 0.90;' />
+<circle cx='548.92' cy='304.03' r='8.27' style='stroke-width: 0.71; stroke: #000000; stroke-opacity: 0.90; fill: #000000; fill-opacity: 0.90;' />
+<circle cx='548.92' cy='325.89' r='8.89' style='stroke-width: 0.71; stroke: #000000; stroke-opacity: 0.90; fill: #000000; fill-opacity: 0.90;' />
+<text x='565.74' y='234.38' style='font-size: 9.00px; font-family: "Arial";' textLength='5.00px' lengthAdjust='spacingAndGlyphs'>6</text>
+<text x='565.74' y='251.66' style='font-size: 9.00px; font-family: "Arial";' textLength='5.00px' lengthAdjust='spacingAndGlyphs'>7</text>
+<text x='565.74' y='268.94' style='font-size: 9.00px; font-family: "Arial";' textLength='5.00px' lengthAdjust='spacingAndGlyphs'>8</text>
+<text x='565.74' y='287.16' style='font-size: 9.00px; font-family: "Arial";' textLength='5.00px' lengthAdjust='spacingAndGlyphs'>9</text>
+<text x='565.74' y='307.26' style='font-size: 9.00px; font-family: "Arial";' textLength='10.01px' lengthAdjust='spacingAndGlyphs'>10</text>
+<text x='565.74' y='329.11' style='font-size: 9.00px; font-family: "Arial";' textLength='9.34px' lengthAdjust='spacingAndGlyphs'>11</text>
+<text x='537.59' y='366.53' style='font-size: 9.00px; font-weight: bold; font-family: "Arial";' textLength='38.51px' lengthAdjust='spacingAndGlyphs'>Adjusted</text>
+<text x='537.59' y='376.25' style='font-size: 9.00px; font-weight: bold; font-family: "Arial";' textLength='31.51px' lengthAdjust='spacingAndGlyphs'>p-value</text>
+<image width='17.28' height='86.40' x='537.59' y='382.68' preserveAspectRatio='none' xlink:href='data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAEsCAYAAAACUNnVAAAA20lEQVQ4jY2R2xXDIAxDJXW1jtD9R6n6kQA2sZv8cBC64iHw5seCCIGEIEAMcg7TDQYzx+FyN5L7Z2gQP95gcF4S90h52spuMPJAyEsCBYL8hAT7/34d59AGIKNyM4fKyDOkG7SI87MW7O66PAzX5cTWEsK9TheJ/PKbM66uu8PjO9wlALl3XbSbEiYgAdCLHgMMiWNNhxxrUfrMioYYYETJmeXMcm5AIMvG5XSVJfkA6eQDJMvVVWgNo5dXgZzGdba6Wo2fxtZ9SlQbhE/Z75L+qIyF7FO3ld8gf/3fk1/dPa0QAAAAAElFTkSuQmCC'/>
+<polyline points='551.41,398.20 554.87,398.20 ' style='stroke-width: 0.38; stroke: #FFFFFF; stroke-linecap: butt;' />
+<polyline points='551.41,423.09 554.87,423.09 ' style='stroke-width: 0.38; stroke: #FFFFFF; stroke-linecap: butt;' />
+<polyline points='551.41,447.98 554.87,447.98 ' style='stroke-width: 0.38; stroke: #FFFFFF; stroke-linecap: butt;' />
+<polyline points='541.04,398.20 537.59,398.20 ' style='stroke-width: 0.38; stroke: #FFFFFF; stroke-linecap: butt;' />
+<polyline points='541.04,423.09 537.59,423.09 ' style='stroke-width: 0.38; stroke: #FFFFFF; stroke-linecap: butt;' />
+<polyline points='541.04,447.98 537.59,447.98 ' style='stroke-width: 0.38; stroke: #FFFFFF; stroke-linecap: butt;' />
+<text x='560.35' y='401.42' style='font-size: 9.00px; font-family: "Arial";' textLength='17.51px' lengthAdjust='spacingAndGlyphs'>0.01</text>
+<text x='560.35' y='426.31' style='font-size: 9.00px; font-family: "Arial";' textLength='17.51px' lengthAdjust='spacingAndGlyphs'>0.02</text>
+<text x='560.35' y='451.20' style='font-size: 9.00px; font-family: "Arial";' textLength='17.51px' lengthAdjust='spacingAndGlyphs'>0.03</text>
+<text x='364.19' y='67.81' text-anchor='middle' style='font-size: 13.00px; font-weight: bold; font-family: "Arial";' textLength='133.65px' lengthAdjust='spacingAndGlyphs'>A. Upregulated genes</text>
+<text x='305.00' y='32.38' text-anchor='middle' style='font-size: 10.50px; font-family: "Arial";' textLength='232.87px' lengthAdjust='spacingAndGlyphs'>Top 15 enriched terms ranked by adjusted p-value</text>
+<text x='305.00' y='16.22' text-anchor='middle' style='font-size: 15.00px; font-weight: bold; font-family: "Arial";' textLength='440.86px' lengthAdjust='spacingAndGlyphs'>GO Biological Process enrichment: Cluster 3 versus Cluster 2</text>
+</g>
+</svg>

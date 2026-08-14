@@ -1,0 +1,48 @@
+# R / RStudio
+.Rhistory
+.RData
+.Ruserdata
+.Rproj.user/
+
+# Operating system files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Temporary and backup files
+*~
+*.tmp
+*.temp
+*.bak
+*.swp
+*.swo
+
+# R caches
+.Rcache/
+cache/
+
+# Shiny deployment metadata
+rsconnect/
+
+# LaTeX temporary build files
+*.aux
+*.bbl
+*.blg
+*.fdb_latexmk
+*.fls
+*.out
+*.synctex.gz
+*.toc
+
+# Raw RNA-seq data
+Data/
+
+# Large R objects
+*.RData
+*.rds
+*.RDS
+
+# Analysis outputs that are large or primarily diagnostic
+results/logs/
+results/processed_data/
+results/r_objects/
